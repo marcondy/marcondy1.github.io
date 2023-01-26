@@ -1,5 +1,1 @@
-{
-  "names": {
-    "marco": "npub1lplxyfpdmg3w85we6wfj72r8htzssfyag3j62ct2f2s3xdqlhlfq74gjax"
-  }
-}
+include: [".well-known"]
